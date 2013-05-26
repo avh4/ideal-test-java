@@ -1,6 +1,6 @@
 ---
-package : com.example
-project : my-project
+package : net.avh4.ideal.test
+project : ideal-test-java
 description : ~
-project_url : ~
-github_user : ~
+project_url : http://github.com/avh4/ideal-test-java
+github_user : avh4
