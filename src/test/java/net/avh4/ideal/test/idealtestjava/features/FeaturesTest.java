@@ -1,4 +1,4 @@
-package {{ package }}.{{ project | as_package }}.features;
+package net.avh4.ideal.test.idealtestjava.features;
 
 import cucumber.api.junit.Cucumber;
 import org.junit.runner.RunWith;
